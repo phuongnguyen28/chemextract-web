@@ -2,8 +2,6 @@ import re
 import pandas as pd
 import pdfplumber
 from pathlib import Path
-import tkinter as tk
-from tkinter import filedialog, messagebox, ttk
 import os
 import config
 
@@ -500,3 +498,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
