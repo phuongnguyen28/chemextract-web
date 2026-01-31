@@ -1,8 +1,0 @@
-# ChemExtract Web - Firebase-ready requirements
-# Không có win32com - có thể deploy trên Linux/Firebase
-
-flask>=3.0.0
-flask-cors>=4.0.0
-openpyxl==3.1.2
-PyMuPDF>=1.23.0
-gunicorn>=21.0.0
